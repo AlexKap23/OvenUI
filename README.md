@@ -1,5 +1,1 @@
-# OvenUI
-# OvenUI
-# OvenUI
-# OvenUI
-# OvenUI
+This is a UI for an imaginary Oven who's manufacturer provides us the API for controling it through internet. So we developted an UI for an android device in order for elderly people to use the oven from their device and don't have to mess with the oven controls.
